@@ -1,4 +1,4 @@
-#Changes done
+##Changes done
 
 1. Refactored the code for easier maintenance and reusability. Added Item class for items pulled from API endpoint. Used TypeAdapterGenerator for easier access between DB and program. Fixed typo errors to instantiate class correctly.
 2. Added widgets folder for accessing widgets for view. Added dial for toggling between ListView and GridView.
